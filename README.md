@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Merhaba, Ben [AD SOYAD]
+# 👋 Merhaba, Ben [Berat Kaya]
 
 ### 💻 Computer Programming Student | 🚀 Developer in Progress
 
