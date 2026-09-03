@@ -43,7 +43,7 @@
       <li>💻 Modern web teknolojileri ve backend sistemleri üzerine kendimi geliştiriyorum.</li>
       <li>🛠️ Pratik projeler üreterek temiz kod (clean code) prensiplerini uygulamaya çalışıyorum.</li>
       <li>📈 Her gün yeni bir şeyler öğrenmeye ve açık kaynak dünyasına katkı sağlamaya devam ediyorum.</li>
-      <li>📫 Bana ulaşmak veya iş birliği yapmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz.</li>
+      <li>📫 Bana ulaşmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz.</li>
     </ul>
   </div>
 
@@ -51,7 +51,7 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="mailto:ornek@email.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="mailto:trberat439@email.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/kyberat"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
