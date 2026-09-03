@@ -1,12 +1,19 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
-  <h1>Merhaba, Ben Berat 👋</h1>
-  <h3>Bilgisayar Programcılığı Öğrencisi | Yazılım Geliştirici</h3>
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Merhaba,%20Ben%20Berat%20👋&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
 
+  <!-- Animated Typing Subtitle -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Yeni+Teknolojiler+%C3%96%C4%9Freniyor" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Profile Views & Student Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kyberat&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/STATUS-STUDENT%20%7C%20LEARNING-blue?style=flat-square" alt="Student Status" />
   </p>
 
   <br />
@@ -21,9 +28,6 @@
     </tr>
     <tr>
       <td align="left"><b>Üniversite:</b> Bandırma Onyedi Eylül Üniversitesi</td>
-    </tr>
-    <tr>
-      <td align="left"><b>Odak:</b> Web Geliştirme, E-Ticaret Sistemleri & Yazılım Mimarisi</td>
     </tr>
     <tr>
       <td align="left"><b>Şu an:</b> Yeni teknolojiler öğreniyor ve pratik projeler geliştiriyorum.</td>
