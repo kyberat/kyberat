@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kyberat/kyberat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Merhaba, Ben [AD SOYAD]
 
-Here are some ideas to get you started:
+### 💻 Computer Programming Student | 🚀 Developer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Programming+Student;Learning+Python+%7C+C%23+%7C+C%2B%2B;Building+Projects+%26+Improving+Every+Day" />
+
+</div>
+
+---
+
+## 👨‍💻 Hakkımda
+
+```yaml
+🎓 eğitim: Bilgisayar Programcılığı
+💻 alan: Yazılım & Bilgisayar Teknolojileri
+🌱 şu_anda_öğreniyorum:
+  - Python
+  - C
+  - C#
+  - C++
+  - HTML
+  - CSS
+  - JavaScript
+
+🚀 hedef: Kendimi sürekli geliştirerek profesyonel bir yazılımcı olmak
+📚 öğrenme: Her gün yeni bir şey öğrenmeye devam ediyorum
