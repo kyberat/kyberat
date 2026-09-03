@@ -61,12 +61,12 @@
   <!-- Technologies & Tools -->
   <h2>Diller & Frameworkler</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,csharp,dotnet" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cs,cpp,dotnet" alt="Languages & Frameworks" />
   </p>
 
   <h2>Veritabanı, Araçlar & Ortamlar</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,figma" alt="Tools & Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,visualstudio,wordpress,figma" alt="Tools & Databases" />
   </p>
 
   <br />
